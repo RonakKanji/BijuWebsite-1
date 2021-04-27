@@ -20,6 +20,14 @@ h1 {
     color: darkblue;
 }
 
+h2{
+  font-family: 'Antonio', sans-serif;
+}
+
+p{
+  font-family: 'Shippori Mincho', serif;
+}
+
 .link_pad{
   padding-left: 10px;
 }
@@ -31,12 +39,6 @@ h1 {
   width: 30px;
 }
 
-.navbar_border{
-  border-style: none none solid none;
-  border-width: 1px;
-  border-color: black;
-
-}
 .center {
     margin-left: auto;
     margin-right: auto;
